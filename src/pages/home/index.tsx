@@ -58,8 +58,11 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+                I'm a Full Stack Web Developer, with experience in projects involving technologies: 
+                HTML| css| JavaScript| typed| React | NodeJS| Python | DJANGO | TypeORM , Throughout 
+                my apprenticeship, I was responsible for creating interactive and responsive user interfaces, 
+                functional and secure APIs, among other FullStack projects, I have experience in agile methodologies such as SCRUM, 
+                using tools to optimize my effectiveness such as Trello, among others.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
